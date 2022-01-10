@@ -1,0 +1,22 @@
+body {
+  font-family: "Cabin", sans-serif;
+  color: #373A3C;
+}
+
+.nav_titulo {
+  font-family: "Lobster", cursive;
+  color: white;
+  font-size: 37pt;
+}
+
+.titulo_main {
+  text-align: left;
+  font-size: 42pt;
+  padding-right: 15%;
+}
+
+.boton_main {
+  border: 1px solid #DDDDDD;
+
+
+}
