@@ -1,6 +1,8 @@
 body {
   font-family: "Cabin", sans-serif;
   color: #373A3C;
+  padding: 0;
+  margin: 0;
 }
 
 .nav_titulo {
@@ -20,3 +22,12 @@ body {
 
 
 }
+
+#seccionNegra {
+  font-size: 28pt;
+}
+
+#ricomida {
+  font-family: "Lobster", cursive;
+  color: white;
+  font-size: 20pt;}
