@@ -1,0 +1,55 @@
+body {
+  font-family: "Cabin", sans-serif;
+  color: #373A3C;
+  padding: 0;
+  margin: 0;
+}
+
+.nav_titulo {
+  font-family: "Lobster", cursive;
+  color: white;
+  font-size: 37pt;
+}
+
+.titulo_main {
+  text-align: left;
+  font-size: 42pt;
+  padding-right: 15%;
+}
+
+.botones{
+  text-align: center;
+  font-size: 42pt;
+  padding-right: 15%;
+}
+
+.boton_main {
+  border: 1px solid #DDDDDD;
+
+
+}
+
+#seccionNegra {
+  font-size: 28pt;
+}
+
+#ricomida {
+  font-family: "Lobster", cursive;
+  color: white;
+  font-size: 20pt;}
+
+
+.carousel-indicators [data-bs-target]{
+  background-color: black;
+  width: 14px;
+  height: 14px;
+  border-radius: 100%;
+  border-top: -70px;
+  
+}
+
+.carousel-indicators {
+  bottom: -60px;
+}
+
+
